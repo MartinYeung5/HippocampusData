@@ -13,7 +13,7 @@ This project allows users to:
 
 * Irrefutably Certify the existence and integrity of their data by creating a tamper-proof proof on the Sui blockchain.
 
-* Selectively Disclose information without exposing the raw data, using zero-knowledge principles.
+* Selectively Disclose information without exposing the raw data, using zero-knowledge proof.
 
 * Automate Audits with an AI Agent that can analyze data for compliance, anomalies, or specific patterns based on user permission.
 
