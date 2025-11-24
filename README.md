@@ -18,6 +18,7 @@ This project allows users to:
 * Automate Audits with an AI Agent that can analyze data for compliance, anomalies, or specific patterns based on user permission.
 
 ✨ Key Features
+
 🔐 User-Centric Data Ownership: You hold the keys. Your data is encrypted and stored in a decentralized manner. You have full control over access permissions.
 
 ⛓️ On-Chain Certification with Sui: Generate a unique cryptographic fingerprint (hash) of your document and record it on the Sui blockchain. This provides a public, timestamped, and immutable proof of your document's state at a specific time, without storing the document itself on-chain.
