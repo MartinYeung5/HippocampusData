@@ -1,13 +1,11 @@
-## 20251124
+## HippocampusData
 
-DataVault: Sovereign Data Management with On-Chain Certification & AI Audit
-https://via.placeholder.com/800x400.png?text=DataVault+High-Level+Architecture
-(Consider creating a simple diagram and hosting it, then replace this placeholder)
+Sovereign Data Management with On-Chain Certification & AI Audit
 
 Empowering users to own, certify, and control their sensitive documents with the security of the Sui blockchain and the privacy of Walrus storage, augmented by intelligent AI auditing.
 
 🚀 Introduction
-In today's digital world, our most important documents—contracts, certificates, business records—are often stored on centralized servers, leaving us without true ownership or control. DataVault redefines data sovereignty by providing a user-centric platform for secure, private, and verifiable data management.
+In today's digital world, our most important documents—contracts, certificates, business records—are often stored on centralized servers, leaving us without true ownership or control. HippocampusData redefines data sovereignty by providing a user-centric platform for secure, private, and verifiable data management.
 
 This project allows users to:
 
@@ -24,7 +22,7 @@ This project allows users to:
 
 ⛓️ On-Chain Certification with Sui: Generate a unique cryptographic fingerprint (hash) of your document and record it on the Sui blockchain. This provides a public, timestamped, and immutable proof of your document's state at a specific time, without storing the document itself on-chain.
 
-🦭 Private, Decentralized Storage with Walrus: Lever the Walrus network for robust, scalable, and cost-effective storage of the actual encrypted documents. Walrus's design is a perfect fit for the user-centric and decentralized ethos of DataVault.
+🦭 Private, Decentralized Storage with Walrus: Lever the Walrus network for robust, scalable, and cost-effective storage of the actual encrypted documents. Walrus's design is a perfect fit for the user-centric and decentralized ethos of HippocampusData.
 
 🤖 AI-Powered Data Audit Agent: Grant permission to an AI Agent to analyze your stored documents (e.g., to check a contract for non-standard clauses, validate a certificate's format, or summarize a business report). The agent works on an encrypted, privacy-preserving basis where possible.
 
@@ -59,13 +57,13 @@ For managing document hashes, CIDs, and user permissions on the Sui network.
 * AI/ML	Python: LangChain, 
 LLMs (e.g., OpenAI, Ollama)	The core logic for the audit agent, capable of processing various document types.
 * Client SDK: TypeScript/JavaScript,
-A library for developers to easily integrate DataVault's functionalities into their apps.
+A library for developers to easily integrate HippocampusData's functionalities into their apps.
 * Frontend: React, Vite
 A reference client application demonstrating all features.
 
 📁 Repository Structure
 text
-datavault-core/
+HippocampusData-core/
 ├── contracts/          # Sui Move smart contracts
 ├── backend/            # AI Agent & backend service (Node.js/Python)
 ├── sdk/                # TypeScript client SDK
@@ -84,7 +82,7 @@ Installation & Local Development
 1. Clone the repository:
 ```
 git clone our repo
-cd datavault-core
+cd HippocampusData-core
 ```
 
 2. Set up the Smart Contracts:
