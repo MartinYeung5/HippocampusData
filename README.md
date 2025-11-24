@@ -120,10 +120,7 @@ Supply Chain Documentation: Certify invoices, bills of lading, and quality repor
 Personal Data Vault: A secure repository for identity documents, medical records, and other personal data, controlled entirely by the user.
 
 🛣️ Roadmap
-Q4 2025: Core MVP (Storage, Sui Certification, Basic Frontend)
-
-Q1 2026: Integration of AI Audit Agent (Basic Document Analysis)
-
-Q2 2026: Advanced ZK-Proofs for selective disclosure, SDK release.
-
-Q3 2026: Mobile client, broader AI audit templates.
+* Q4 2025: Core MVP (Storage, Sui Certification, Basic Frontend)
+* Q1 2026: Integration of AI Audit Agent (Basic Document Analysis)
+* Q2 2026: Advanced ZK-Proofs for selective disclosure, SDK release.
+* Q3 2026: Mobile client, broader AI audit templates.
