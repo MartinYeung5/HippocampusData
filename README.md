@@ -1,6 +1,6 @@
 ## HippocampusData
 
-Sovereign Data Management with On-Chain Certification & AI Audit
+Perosonal Data Management with On-Chain Certification & AI Audit
 
 Empowering users to own, certify, and control their sensitive documents with the security of the Sui blockchain and the privacy of Walrus storage, augmented by intelligent AI auditing.
 
